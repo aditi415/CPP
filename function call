@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+ void add(){
+  int a=6,b=9;
+  int sum=a+b;
+  cout<<"sum od a and b is:" sum <<"\n";
+}
+
+int main(){
+ add();
+ return 0;
+ }
