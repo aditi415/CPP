@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
 
- void add(){
+ void add(){           //addition function
   int a=6,b=9;
   int sum=a+b;
   cout<<"sum od a and b is:" sum <<"\n";
 }
 
 int main(){
- add();
+ add();     //function call
  return 0;
  }
