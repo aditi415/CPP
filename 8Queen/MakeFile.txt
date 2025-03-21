@@ -1,0 +1,13 @@
+CC = g++
+CCFLAGS = -c          -I.
+DEPS = Board.hpp Queen.hpp
+TARGET = eightqueen
+OBJS = Board.o Queen.o main.o
+
+%.o: %.cpp $(DEPS)
+	$(CC) $(CCFLAGS) -o $@ $<
+
+$(TARGET): $(OBJS)
+	$(CC) -o $@ $^
+
+
