@@ -6,4 +6,3 @@
 std::string convertToBase(int number, int base);
 
 #endif // DECIMALTOBASE_HPP
-
