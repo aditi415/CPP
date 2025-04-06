@@ -10,7 +10,7 @@ FileStats analyzeFile(const std::string& filename) {
     if (!file) {
         return stats;
     }
-
+    
     std::string line;
     while (std::getline(file, line)) {
         stats.numLines++;
