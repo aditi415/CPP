@@ -7,7 +7,7 @@ std::string formatNumber(float number) {
     std::stringstream ss;
     ss << std::fixed << std::setprecision(5) << number;
     std::string str = ss.str();
-
+    
     size_t dotPos = str.find('.');
     std::string integral = str.substr(0, dotPos);
     std::string fractional = str.substr(dotPos + 1);
