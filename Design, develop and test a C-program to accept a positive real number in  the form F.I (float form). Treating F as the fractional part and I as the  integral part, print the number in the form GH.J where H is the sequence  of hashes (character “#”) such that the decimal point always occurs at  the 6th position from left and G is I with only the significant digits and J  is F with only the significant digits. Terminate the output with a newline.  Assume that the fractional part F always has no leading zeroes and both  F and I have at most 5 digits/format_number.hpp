@@ -6,4 +6,3 @@
 std::string formatNumber(float number);
 
 #endif // FORMAT_NUMBER_HPP
-
