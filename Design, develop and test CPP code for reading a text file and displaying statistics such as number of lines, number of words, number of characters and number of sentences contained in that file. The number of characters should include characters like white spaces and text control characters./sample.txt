@@ -1,0 +1,3 @@
+Hello world! This is a test.
+Do you know C++? It's powerful.
+Let's analyze this file.
