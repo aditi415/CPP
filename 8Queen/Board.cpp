@@ -1,4 +1,4 @@
-#include "Board.h"
+#include "Board.hpp"
 
 Board::Board() {
     board.resize(SIZE, std::vector<char>(SIZE, '-'));
