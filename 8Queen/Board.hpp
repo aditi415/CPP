@@ -1,7 +1,7 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-#include "Queen.h"
+#include "Queen.hpp"
 #include <vector>
 #include <iostream>
 
