@@ -5,4 +5,3 @@ int main() {
     finder.findSymmetricDates();
     return 0;
 }
-
