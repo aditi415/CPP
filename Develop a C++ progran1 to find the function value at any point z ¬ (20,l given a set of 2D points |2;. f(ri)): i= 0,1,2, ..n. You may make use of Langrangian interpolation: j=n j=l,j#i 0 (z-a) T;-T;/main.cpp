@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include "lagrange.hpp"
-
 int main() {
     int n;
     std::cout << "Enter the number of data points: ";
