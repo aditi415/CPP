@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
  void add(){           //addition function
   int a=6,b=9;
   int sum=a+b;
