@@ -1,6 +1,5 @@
 #include <iostream>
 #include "gcd_lcm.hpp"
-
 int main() {
     int num1, num2;
 
