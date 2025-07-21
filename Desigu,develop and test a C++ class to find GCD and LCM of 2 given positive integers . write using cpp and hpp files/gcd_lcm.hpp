@@ -1,6 +1,5 @@
 #ifndef GCD_LCM_HPP
 #define GCD_LCM_HPP
-
 class NumberOperations {
 private:
     int a, b;
