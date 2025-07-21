@@ -5,7 +5,6 @@ NumberOperations::NumberOperations(int x, int y) {
     a = x;
     b = y;
 }
-
 // GCD using Euclidean algorithm
 int NumberOperations::getGCD() const {
     int x = a, y = b;
