@@ -3,7 +3,6 @@
 #include <fstream>
 #include <cctype>
 
-
 FileStats analyzeFile(const std::string& filename) {
     std::ifstream file(filename);
     FileStats stats = {0, 0, 0, 0};
