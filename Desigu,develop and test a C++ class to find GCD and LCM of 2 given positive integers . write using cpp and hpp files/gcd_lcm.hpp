@@ -3,7 +3,6 @@
 class NumberOperations {
 private:
     int a, b;
-
 public:
     NumberOperations(int x, int y);
 
