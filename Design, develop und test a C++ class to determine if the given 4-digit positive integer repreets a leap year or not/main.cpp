@@ -3,7 +3,7 @@
 
 int main() {
     int year;
-
+    
     std::cout << "Enter a 4-digit positive year: ";
     std::cin >> year;
 
