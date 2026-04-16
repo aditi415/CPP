@@ -1,7 +1,7 @@
 #ifndef LEAP_YEAR_HPP
 #define LEAP_YEAR_HPP
 
-class YearChecker {
+class YearChecker { 
 private:
     int year;
 
