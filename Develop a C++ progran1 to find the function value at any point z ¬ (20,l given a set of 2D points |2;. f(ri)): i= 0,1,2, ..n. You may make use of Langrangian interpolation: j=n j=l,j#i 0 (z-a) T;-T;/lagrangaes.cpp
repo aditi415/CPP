@@ -1,5 +1,4 @@
-#include "lagrange.hpp"
-
+#include "lagranges.hpp"
 double lagrangeInterpolation(const std::vector<double>& x, const std::vector<double>& y, double z) {
     int n = x.size();
     double result = 0.0;
