@@ -1,6 +1,5 @@
 #ifndef FLOAT_FORMAT_HPP
 #define FLOAT_FORMAT_HPP
-
 #include <string>
 
 class FloatFormatter {
