@@ -1,7 +1,8 @@
 #include "TextStatistics.hpp"
 #include <iostream>
 
-int main() {
+int main()  
+{
     std::string filename;
     std::cout << "Enter filename to analyze: ";
     std::cin >> filename;
